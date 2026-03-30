@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+env/
+__pycache__/
+
+# Raw Data (Users must download this themselves via NSRR)
+dataset/
+mesa/
+*.edf
+*.xml
+
+# OS generated files
+.DS_Store

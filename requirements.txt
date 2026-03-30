@@ -1,0 +1,11 @@
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+scipy
+neurokit2
+seaborn
+xgboost
+pyEDFlib
+shap
