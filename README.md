@@ -1,5 +1,4 @@
-# Frugal Cardiopulmonary Sensor Fusion: Algorithmic Evaluation of SpO2 and ECG for
-Edge-Based Sleep Apnea Triage
+# Frugal Cardiopulmonary Sensor Fusion: Algorithmic Evaluation of SpO2 and ECG for Edge-Based Sleep Apnea Triage
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
